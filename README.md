@@ -1,0 +1,3 @@
+"# php-autoloading-namespaces" 
+
+

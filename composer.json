@@ -1,0 +1,16 @@
+{
+    "name": "autoloading-and-namespaces",
+    "description": "PHP autoloading and namespaces example.",
+    "authors": [
+        {
+            "name": "Recep HIDIR",
+            "email": "recep.hidir@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Helper\\": "./Classes/"
+        }
+    }
+}
